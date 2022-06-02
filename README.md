@@ -1,1 +1,1 @@
-# Project_8
+Frontend Mentor | QR code component
